@@ -1,0 +1,41 @@
+body
+{
+    background-color: lightpink;
+    text-align: center;
+}
+
+.header
+{
+	color: rgb(5, 4, 4);
+    font-family: 'Yeon Sung';
+    font-size: 45px;
+    letter-spacing: 10px;
+    margin-top: 20px;
+}
+
+#logo
+{
+	width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    border: blue 5px;
+    margin: 20px;
+}
+
+#login_button
+{
+	width: 80%;
+    border-radius: 15px;
+}
+
+.room_name
+{
+	cursor: pointer;
+	font-size: 20px;
+}
+
+#logout
+{
+	font-size: 20px;
+    float: right;
+}
